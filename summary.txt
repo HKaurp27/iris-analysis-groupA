@@ -1,0 +1,15 @@
+--- UCI Iris Dataset Summary Report ---
+Applied Headers: sepal_length, sepal_width, petal_length, petal_width, class
+Total Rows Processed: 150
+
+--- Sepal Length Statistics ---
+Minimum: 4.3 cm | Maximum: 7.9 cm | Average: 5.84 cm
+
+--- Sepal Width Statistics ---
+Minimum: 2.0 cm | Maximum: 4.4 cm | Average: 3.05 cm
+
+--- Petal Length Statistics ---
+Minimum: 1.0 cm | Maximum: 6.9 cm | Average: 3.76 cm
+
+--- Petal Width Statistics ---
+Minimum: 0.1 cm | Maximum: 2.5 cm | Average: 1.20 cm
