@@ -1,0 +1,23 @@
+Iris Dataset Summary
+
+Row Count: 150
+
+Sepal Length
+Minimum: 4.3
+Maximum: 7.9
+Average: 5.84
+
+Sepal Width
+Minimum: 2.0
+Maximum: 4.4
+Average: 3.05
+
+Petal Length
+Minimum: 1.0
+Maximum: 6.9
+Average: 3.76
+
+Petal Width
+Minimum: 0.1
+Maximum: 2.5
+Average: 1.2
