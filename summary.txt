@@ -1,0 +1,5 @@
+--- Iris Dataset Summary ---
+Total Rows (excluding header): 150
+Minimum Sepal Length: 4.3
+Maximum Sepal Length: 7.9
+Average Sepal Length: 5.84
