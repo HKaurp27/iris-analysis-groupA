@@ -1,5 +1,19 @@
---- Iris Dataset Summary ---
-Total Rows (excluding header): 150
+--- Iris Dataset Summary (Phase 3) ---
+
+Original Total Rows (excluding header): 150
+
+Duplicate Rows Removed: 3
+
+Cleaned Total Rows: 147
+
+Exported Cleaned Dataset: clean_iris.csv
+
+
+
+--- Key Metrics (Sepal Length) ---
+
 Minimum Sepal Length: 4.3
+
 Maximum Sepal Length: 7.9
+
 Average Sepal Length: 5.84
