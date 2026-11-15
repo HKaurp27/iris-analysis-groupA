@@ -1,0 +1,13 @@
+# Project Reflection: Iris Dataset Analysis
+
+## Challenges Encountered and How They Were Addressed
+
+One of the biggest learning curves in this project was getting comfortable with GitHub and version control as a team. Coordinating our repository setup and merging everyone's individual code across the different phases meant we had to communicate constantly so we wouldn't accidentally overwrite each other's work. We also ran into some tricky logic hurdles early on when writing manual loops and `if-elif-else` statements to count species and categorize petal lengths, especially around edge cases. Working through those bugs together by stepping through the loops line by line and figuring out where to switch over to built-in Pandas functions helped things click. On the file handling side, converting `iris.data` into `iris.csv`, generating `summary.txt`, and verifying our cleaned datasets (`iris_cleaned.csv` and `iris_classes.csv`) taught us the value of paying close attention to directory paths, CSV headers, and data types using `df.isnull().sum()`. Standardizing our file names and testing read and write blocks separately saved us from a lot of formatting headaches.
+
+## Experience with Group Dynamics
+
+Looking back at our group dynamics, dividing the project into four clear phases really helped us play to our strengths while keeping everyone involved. From setting up the foundation and tackling core Python logic, including variables, control structures, loops, and functions, across Harmanjot, Elshadie, Olatunji, and Danawit, to moving into file handling, data cleaning, and building our visualizations with Matplotlib and Seaborn, everyone pulled their weight. Whenever someone hit a wall trying to connect a manual loop to a Pandas DataFrame or debug a file path, the rest of the team jumped in to troubleshoot. Having that kind of open, supportive communication kept us on track and made the whole process feel like a genuine team effort.
+
+## Lessons Carried Into Future Teamwork Projects
+
+This project left us with a few practical habits we will definitely bring into future group work. First, setting up clear GitHub branching rules and commit conventions from day one is essential for avoiding merge conflicts and keeping track of who changed what. Second, writing clean, modular functions with clear inputs and outputs makes it much easier to combine everyone's work into a single notebook without breaking things. Finally, we learned not to rush straight into charts and analysis. Taking the time upfront to test file paths, check for missing values, and validate data types prevents a lot of frustration later on.
