@@ -1,7 +1,7 @@
 # Iris Analysis 
 
 ## Dataset description 
-This project is an exploratory data analysis of the UCI Iris dataset. Each of the 150 rows is one iris flower, with four measurements (attributes) in centimeters (sepal_length, sepal_width, petal_lenght, petal_width) and its species: Iris sets, Iris versicolour and Iris virginia. 
+This project is an exploratory data analysis of the UCI Iris dataset. Each of the 150 rows is one iris flower, with four measurements (attributes) in centimeters (sepal_length, sepal_width, petal_length, petal_width) and its species: Iris sets, Iris versicolour and Iris virginia. 
 There is 50 of each species. The UCI documentation lists known errors in samples 35 and 38, and the data contains 3 duplicate rows. We kept all rows because each is a real flower and removing any would break the documented 150 rows (50 per species). The documentation provides the 
 corrections for the measurements, manual corrections to the data can be made if necceasry. 
 
