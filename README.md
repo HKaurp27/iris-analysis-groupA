@@ -41,4 +41,7 @@ The following graphs were created using the Iris dataset:
 - **Bar Chart:** Compares average sepal length across the three species.
 - **Boxplot:** Shows the spread and median of petal lengths for each species.
 - **Scatter Plot:** Shows the relationship between sepal length and sepal width.
+- ### Histogram of Petal Lengths
+
+![Histogram of Petal Lengths](histogram.png)
 
