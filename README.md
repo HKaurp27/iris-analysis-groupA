@@ -11,7 +11,18 @@ The dataset has five columns:
 - Petal Length
 - Petal Width
 - Species
+  
 Each species has 50 observations. The four measurements are in centimeters, and the species column identifies the flower type.
+
+## Repository Files
+
+- `Iris_project.ipynb` – Jupyter Notebook contain code, analysis, graphs, and reflections.
+- `iris.data`: The raw dataset converted into standard CSV format.
+- `iris_cleaned.csv` – Dataset with named columns, checked for missing values and data types.
+- `iris_classes.csv` – Iris dataset with petal length categories.
+- `summary.txt` – Summary statistics of the Iris dataset.
+- `README.md` – Project documentation.
+
 ## Steps Performed
 
 ### Phase 1 – Setup
@@ -33,7 +44,8 @@ Each species has 50 observations. The four measurements are in centimeters, and 
 - Calculated descriptive statistics.
 - Created a histogram, bar chart, boxplot, and scatter plot.
 - Exported the categorized data to iris_classes.csv.
-- ## Example Graphs
+
+ ## Example Graphs
 
 The following graphs were created using the Iris dataset:
 
@@ -41,7 +53,7 @@ The following graphs were created using the Iris dataset:
 - **Bar Chart:** Compares average sepal length across the three species.
 - **Boxplot:** Shows the spread and median of petal lengths for each species.
 - **Scatter Plot:** Shows the relationship between sepal length and sepal width.
-- ### Histogram of Petal Lengths
+  ### Histogram of Petal Lengths
 
 ![Histogram of Petal Lengths](histogram.png)
 
