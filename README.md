@@ -12,6 +12,7 @@ There is 50 of each species. The UCI documentation lists known errors in samples
  - `summary.txt`: row count, minimum, maximum and average of each measurement, calculated from raw file
  - `iris_cleaned.csv`: the data with named columns, checked for missing values and data types (no rows removed)
  - `iris_classes.csv`: the cleaned data with additional column, a `petal_category` column (Short, Medium or Long Petal, based on petal length)
+ - `iris_graphs`: files of the graphs from the analysis and visualization
 
 ## Steps performed
 1. **Setup:** created the GitHub repo and added the starter notebook `iris_project.ipynb`, with a "Hello Iris!" cell.
